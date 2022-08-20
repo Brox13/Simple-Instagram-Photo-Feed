@@ -1,0 +1,55 @@
+body {
+    background-color: grey;
+}
+
+.Header {
+    background-color: white;
+    text-align: center;
+}
+
+.post {
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+
+    margin: auto;
+    width: 600px;
+    margin-top: 40px;
+
+}
+
+
+.title {
+    display: flex;
+    padding: 10px;
+}
+
+.points {
+    padding-left: 480px;
+}
+
+#subtitle {
+    font-size: 14px;
+    margin-left: 3px;
+    display:
+
+}
+
+.photo {
+    width: 100%;
+}
+
+.text {
+    padding: 10px;
+}
+
+.likes {
+    padding: 5px;
+}
+
+#favorito {
+    float: right;
+}
+
+.description {
+    padding: 5px;
+}
